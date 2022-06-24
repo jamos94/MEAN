@@ -42,3 +42,17 @@ MongoDB
 
 Single-Page-Application (SPA)
 ---
+index.html  
+- includes scripts to house the angular framework and the angular app
+- allows for instant re-rendering, instant user feedback and makes buidling highly engaging UIs possible.
+
+Client (Browser) - Angular (build UI)
+- SPA, presentation/UI (SPA is not necessarily served by Node backend)
+Server - Node.js, MongoDB 
+- Business logic, persistant data storage, authentication logic
+
+Connecting the Client & the Server
+- AJAX (background) - requests and recieves without reloading the page 
+- JSON data Format
+
+

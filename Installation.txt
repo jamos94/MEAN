@@ -1,0 +1,17 @@
+Required Installations:
+Node.js - https://nodejs.org/en/download/
+ - required for backend and angular workflow
+Angular CLI- https://angular.io/cli
+ - follow commands listed in the given URL
+ - run command "ng new <project_name>" to create the angular project_name
+ - then run 'ng serve'
+ - when compiled, check the localhost given in the terminal in the browser
+
+ EXTENSION
+ - Angular Essentials
+ - Material Icon (personal preference for set up)
+
+ ENSURE ANGULAR WORKS:
+ - navigate to app > app.component.html and delete the place holding code with a message
+ - navigate back to the browser and it should have changed if ng serve is stil running
+ 
